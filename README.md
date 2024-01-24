@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working at [Avicenne Studio](https://www.avicenne.studio/)
 
-- 🚀 Previously helped nonprofits [Givepact.io](https://app.givepact.io/)
-
 - 👨‍💻 All of my projects are available at [https://www.faris.chtatou.org](https://www.faris.chtatou.org)
 
 - 📝 I regularly write articles on [https://www.chtatou.org](https://www.chtatou.org)
