@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faris</h1>
-<h3 align="center">A passionate Web3 Software Engineer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farischt&label=Profile%20views&color=0e75b6&style=flat" alt="farischt" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.chtatou.org](https://www.chtatou.org)
 
-- 💬 Ask me about **Software engineering, soccer and house music**
+- 💬 Ask me about **Software engineering, soccer, tennis and house music**
 
 - 📫 How to reach me **faris.manage@gmail.com**
 
