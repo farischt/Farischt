@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.faris.chtatou.org](https://www.faris.chtatou.org)
 
-- 📝 I regularly write articles on [https://www.chtatou.org](https://www.chtatou.org)
+- 📝 I regularly write articles on [https://www.faris.chtatou.org](https://www.faris.chtatou.org)
 
 - 💬 Ask me about **Software engineering, soccer, tennis and house music**
 
