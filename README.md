@@ -7,10 +7,6 @@
 
 - 🔭 I’m currently working at [Avicenne Studio](https://www.avicenne.studio/)
 
-- 👨‍💻 All of my projects are available at [https://www.faris.chtatou.org](https://www.faris.chtatou.org)
-
-- 📝 I regularly write articles on [https://www.faris.chtatou.org](https://www.faris.chtatou.org)
-
 - 💬 Ask me about **Software engineering, soccer, tennis and house music**
 
 - 📫 How to reach me **faris.manage@gmail.com**
