@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farischt" alt="farischt" /></a> </p>
 
-- 🔭 I’m currently working at [Avicenne Studio](https://www.avicenne.studio/)
+- 🔭 I’m currently working at [LegalPlace](https://www.legalplace.fr/) as a Senior Software Engineer
 
-- 💬 Ask me about **Software engineering, soccer, tennis and house music**
+- 💬 Ask me about **Software engineering, soccer, surf and house music**
 
 - 📫 How to reach me **faris.manage@gmail.com**
 
 - 📄 Know about my experiences [here](https://www.linkedin.com/in/farischtatou1999/)
 
-- ⚡ Fun fact **I am a house music lover**
+- ⚡ Fun fact **I am a surf lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
